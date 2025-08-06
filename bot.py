@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 
 # ابزار جستجوی گوگل
-from Google Search_tool import Google Search
+from google_search_tool import GoogleSearch
 
 # --- بخش تنظیمات و بارگیری کلیدها ---
 load_dotenv()
